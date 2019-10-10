@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/David'sMainMenu.unity
     guid: be0892f1eed7549d2b28667888935148
+  - enabled: 1
+    path: Assets/Scenes/DavidAsAShepherdScene.unity
+    guid: 12770dde9609b481abc8a6268d815bfc
+  - enabled: 1
+    path: Assets/Scenes/David'sAnointmentSecene.unity
+    guid: 86b0631258f7542ee8c2c6a41e32d25a
+  - enabled: 1
+    path: Assets/Scenes/DavidVsGolithScene.unity
+    guid: 4af078936ffa5491a8e8e21b51661869
+  - enabled: 1
+    path: Assets/Scenes/DavidAsAKingScene.unity
+    guid: 220b65381341243948aceab06abda645
   m_configObjects: {}

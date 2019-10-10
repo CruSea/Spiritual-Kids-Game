@@ -55,7 +55,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AudioScript.cs" />
      <Compile Include="Assets\CharacterMenu.cs" />
+     <Compile Include="Assets\CharacterMenuScript.cs" />
+     <Compile Include="Assets\DavidAnointmentMenu.cs" />
+     <Compile Include="Assets\DavidAsAKingMenu.cs" />
+     <Compile Include="Assets\DavidAsAShephredMenu.cs" />
+     <Compile Include="Assets\DavidMenu.cs" />
+     <Compile Include="Assets\DavidVsGolithMenu.cs" />
      <Compile Include="Assets\MainMenu.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
